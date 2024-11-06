@@ -18,13 +18,13 @@ Bootstrap (optional): For styling and layout.
 Git: Version control.
 Visual Studio Code: Development environment.
 ## **Project Structure**
-
 Weather Dashboard/
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS for styling
 ├── script.js           # JavaScript logic
 ├── README.md           # Project documentation
 └── assets/             # (Optional) Images or other assets
+
 ## **License**
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
