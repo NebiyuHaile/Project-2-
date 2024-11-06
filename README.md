@@ -20,11 +20,12 @@ Responsive Design: The application is responsive and works across different scre
 ## **Project Structure**
 Weather Dashboard
 ```bash
+
+├── README.md
 ├── index.html         
 ├── styles.css          
 ├── script.js           
-├── README.md           
-└── assets/             
+```              
 ## **License**
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
