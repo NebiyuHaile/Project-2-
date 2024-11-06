@@ -18,14 +18,13 @@ Responsive Design: The application is responsive and works across different scre
 4. Git: Version control.
 5. Visual Studio Code: Development environment.
 ## **Project Structure**
-Weather Dashboard/
+Weather Dashboard
 ```bash
-├── index.html          # Main HTML file
-├── styles.css          # CSS for styling
-├── script.js           # JavaScript logic
-├── README.md           # Project documentation
-└── assets/             # (Optional) Images or other assets
-```
+├── index.html         
+├── styles.css          
+├── script.js           
+├── README.md           
+└── assets/             
 ## **License**
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
