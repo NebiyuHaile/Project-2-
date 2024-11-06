@@ -2,10 +2,10 @@
 A simple Weather Dashboard application that allows users to view the current weather and forecast for different cities. This project fetches data from an external weather API and displays relevant information such as #temperature, humidity, wind speed, and weather conditions.
 
 ## **Table of Contents**
-Features
-Technologies
-Project Structure
-License
+1. Features
+2. Technologies
+3. Project Structure
+4. License
 ## **Features**
 City Search: Users can search for any city to get real-time weather information.
 Current Weather: Displays the current temperature, humidity, wind speed, and weather conditions for the selected city.
