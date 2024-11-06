@@ -12,19 +12,20 @@ Current Weather: Displays the current temperature, humidity, wind speed, and wea
 5-Day Forecast: Provides a forecast for the next 5 days, including daily temperature and weather summaries.
 Responsive Design: The application is responsive and works across different screen sizes.
 ## **Technologies**
-HTML/CSS/JavaScript: Frontend development.
-OpenWeather API: For fetching weather data.
-Bootstrap (optional): For styling and layout.
-Git: Version control.
-Visual Studio Code: Development environment.
+1. HTML/CSS/JavaScript: Frontend development.
+2. OpenWeather API: For fetching weather data.
+3. Bootstrap (optional): For styling and layout.
+4. Git: Version control.
+5. Visual Studio Code: Development environment.
 ## **Project Structure**
 Weather Dashboard/
-##├── index.html          # Main HTML file
-##├── styles.css          # CSS for styling
-##├── script.js           # JavaScript logic
-##├── README.md           # Project documentation
-##└── assets/             # (Optional) Images or other assets
-
+```bash
+├── index.html          # Main HTML file
+├── styles.css          # CSS for styling
+├── script.js           # JavaScript logic
+├── README.md           # Project documentation
+└── assets/             # (Optional) Images or other assets
+```
 ## **License**
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
