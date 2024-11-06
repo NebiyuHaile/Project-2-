@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Forecast</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body id="body">
+    <header>
+        <h1>Weather Forecast</h1>
+    </header>
+    <main>
+        <section id="weather-container">
+            <div id="city-input">
+                <input type="text" id="city" placeholder="Enter city name">
+                <button id="get-weather">Get Weather</button>
+            </div>
+            <div id="location-btn">
+                <button onclick="getLocation()">Use My Location</button>
+            </div>
+            <div id="unit-toggle">
+                <label for="unit">Unit:</label>
+                <select id="unit">
+                    <option value="metric">Celsius</option>
+                    <option value="imperial">Fahrenheit</option>
+                </select>
+            </div>
+            <div id="weather-details"></div>
+            <div id="forecast-details"></div>
+        </section>
+    </main>
+</body>
+</html>
